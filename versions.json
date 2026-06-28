@@ -10,37 +10,31 @@
         "Koşullu salıverilme tarih hesaplamasındaki hata düzeltildi",
         "Arayüz performans iyileştirmeleri yapıldı"
       ],
-      "download": "GITHUB_RELEASE_URL_BURAYA"
+      "download": "https://github.com/sanelyT/muddetname/releases/download/v4.09.13/MuddeTTname040913.zip"
     },
     {
-      "version": "4.08.11",
-      "date": "Mart 2020",
+      "version": "4.04.09",
+      "date": "Nisan 2020",
       "notes": [],
-      "download": "GITHUB_RELEASE_URL_BURAYA"
+      "download": "https://github.com/sanelyT/muddetname/releases/download/v4.04.09/MuddeTTname040409.zip"
     },
     {
-      "version": "4.07.09",
-      "date": "Ocak 2020",
+      "version": "4.04.06",
+      "date": "Nisan 2020",
       "notes": [],
-      "download": "GITHUB_RELEASE_URL_BURAYA"
+      "download": "https://github.com/sanelyT/muddetname/releases/download/v4.04.06/MuddeTTname040406.zip"
     },
     {
-      "version": "4.06.07",
-      "date": "Ekim 2019",
+      "version": "3.08.04",
+      "date": "Ağustos 2018",
       "notes": [],
-      "download": "GITHUB_RELEASE_URL_BURAYA"
+      "download": "https://github.com/sanelyT/muddetname/releases/download/v3.08.04/MuddeTTname030804.zip"
     },
     {
-      "version": "4.05.05",
-      "date": "Temmuz 2019",
+      "version": "1.12.03",
+      "date": "Aralık 2017",
       "notes": [],
-      "download": "GITHUB_RELEASE_URL_BURAYA"
-    },
-    {
-      "version": "4.04.03",
-      "date": "Mart 2019",
-      "notes": [],
-      "download": "GITHUB_RELEASE_URL_BURAYA"
+      "download": "https://github.com/sanelyT/muddetname/releases/download/v1.12.03/MuddeTTname011203.zip"
     }
   ]
 }
