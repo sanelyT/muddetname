@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MüddeTTname</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo-wrap">
+    <div class="logo-icon">⚖</div>
+    <div class="logo-text">MüddeTTname</div>
+  </div>
+  <p class="tagline">Türk ceza infaz hukuku tahliye tarihi hesaplama yazılımı</p>
+</header>
+
+<nav>
+  <a href="#latest">Son Sürüm</a>
+  <a href="#history">Geçmiş Sürümler</a>
+  <a href="#contact">İletişim</a>
+</nav>
+
+<main>
+
+  <div class="section-label" id="latest">Son Sürüm</div>
+
+  <div class="latest-card" id="latest-card">
+    <div class="version-header">
+      <div class="version-number" id="latest-version">—</div>
+      <div class="version-meta">
+        <div class="version-date" id="latest-date">—</div>
+        <div class="badge-latest">GÜNCEL</div>
+      </div>
+    </div>
+    <div class="version-notes" id="latest-notes"></div>
+    <div class="screenshot-wrap">
+      <img src="screenshot.png" alt="MüddeTTname ekran görüntüsü" class="screenshot">
+    </div>
+    <div class="download-row">
+      <a href="#" class="btn-download" id="latest-download">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/>
+          <polyline points="7 10 12 15 17 10"/>
+          <line x1="12" y1="15" x2="12" y2="3"/>
+        </svg>
+        <span id="latest-download-label">İndir</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="section-label" id="history">Geçmiş Sürümler</div>
+
+  <div class="history-table">
+    <div class="history-row header-row">
+      <div>Sürüm</div>
+      <div>Tarih</div>
+      <div></div>
+    </div>
+    <div id="history-body"></div>
+  </div>
+
+</main>
+
+<footer id="contact">
+  <p style="margin-bottom:8px">
+    <a href="mailto:ab129211@adalet.gov.tr">ab129211@adalet.gov.tr</a>
+  </p>
+  <p>© 2026 MüddeTTname — Tüm hakları saklıdır</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
