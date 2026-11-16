@@ -1,7 +1,31 @@
 {
-  "latest": "4.09.13",
+  "apps": [
+    {
+      "id": "muddetname",
+      "name": "MüddeTTname",
+      "icon": "⚖",
+      "description": "5275 sayılı Ceza İnfaz Kanunu'na göre <b>müddetname hesaplama</b> — infaz türü, koşullu salıverilme ve tarih dökümü.",
+      "screenshot": "screenshot.png"
+    },
+    {
+      "id": "nobettakip",
+      "name": "NöbeTTakip",
+      "icon": "📋",
+      "description": "Personel için aylık <b>nöbet çizelgesi hazırlama</b> — adil otomatik dağıtım, istatistik ve raporlama.",
+      "screenshot": null,
+      "accent": "cyan"
+    }
+  ],
   "versions": [
     {
+      "app": "nobettakip",
+      "version": "2.11.08",
+      "date": "Kasım 2026",
+      "notes": [],
+      "download": "https://github.com/sanelyT/muddetname/releases/download/v2.11.08/NobeTTakip.zip"
+    },
+    {
+      "app": "muddetname",
       "version": "4.09.13",
       "date": "Eylül 2020",
       "notes": [
@@ -13,24 +37,28 @@
       "download": "https://github.com/sanelyT/muddetname/releases/download/v4.09.13/MuddeTTname040913.zip"
     },
     {
+      "app": "muddetname",
       "version": "4.04.09",
       "date": "Nisan 2020",
       "notes": [],
       "download": "https://github.com/sanelyT/muddetname/releases/download/v4.04.09/MuddeTTname040409.zip"
     },
     {
+      "app": "muddetname",
       "version": "4.04.06",
       "date": "Nisan 2020",
       "notes": [],
       "download": "https://github.com/sanelyT/muddetname/releases/download/v4.04.06/MuddeTTname040406.zip"
     },
     {
+      "app": "muddetname",
       "version": "3.08.04",
       "date": "Ağustos 2018",
       "notes": [],
       "download": "https://github.com/sanelyT/muddetname/releases/download/v3.08.04/MuddeTTname030804.zip"
     },
     {
+      "app": "muddetname",
       "version": "1.12.03",
       "date": "Aralık 2017",
       "notes": [],
